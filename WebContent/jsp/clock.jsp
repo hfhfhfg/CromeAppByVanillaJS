@@ -13,8 +13,16 @@
 		<h1>00:00</h1>
 	
 	</div>
+	
+	<form class="js-form form">
+	
+		<input type="text" placeholder="What is your name ?">
+	</form>
+	
+	<h4 class="js-greetings greetings"></h4>
 
 </body>
 
 <script src="../js/clock.js"></script>
+<script src="../js/greeting.js"></script>
 </html>
