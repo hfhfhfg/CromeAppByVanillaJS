@@ -1,9 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Hi</title>
 <link rel="styleSheet" href="../css/clock.css"/>
 </head>
@@ -20,9 +20,19 @@
 	</form>
 	
 	<h4 class="js-greetings greetings"></h4>
+	
+	<form class="js-toDoForm">
+		<input type="text" placeholder="Write a to do">
+	</form>
+	
+	<ul class="js-toDoList">
+	
+	</ul>
+	
 
 </body>
 
 <script src="../js/clock.js"></script>
 <script src="../js/greeting.js"></script>
+<script src="../js/todo.js"></script>
 </html>
