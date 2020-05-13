@@ -37,4 +37,5 @@
 <script src="../js/greeting.js"></script>
 <script src="../js/todo.js"></script>
 <script src="../js/backgrounds.js"></script>
+<script src="../js/weather.js"></script>
 </html>
