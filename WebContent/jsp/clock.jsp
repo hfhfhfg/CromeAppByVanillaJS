@@ -5,9 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Hi</title>
-<link rel="styleSheet" href="../css/clock.css"/>
+<link rel="styleSheet" href="../css/common.css"/>
 </head>
 <body>
+
 
 	<div class="js-clock">
 		<h1>00:00</h1>
@@ -35,4 +36,5 @@
 <script src="../js/clock.js"></script>
 <script src="../js/greeting.js"></script>
 <script src="../js/todo.js"></script>
+<script src="../js/backgrounds.js"></script>
 </html>
